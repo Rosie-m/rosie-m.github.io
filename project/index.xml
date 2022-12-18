@@ -6,7 +6,9 @@ Zeus is part of
 &lt;a href="https://ml.energy" target="_blank" rel="noopener">The ML.ENERGY Initiative&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>Extended Zeus from single-GPU to single-node multi-GPU that supports efficient &lt;strong>data parallel training&lt;/strong>.&lt;/p>
+&lt;p>Extended Zeus from single-GPU to single-node multi-GPU that supports efficient &lt;strong>data parallel training&lt;/strong>. [Pull requests
+&lt;a href="https://github.com/SymbioticLab/Zeus/pull/2" target="_blank" rel="noopener">#2&lt;/a> and
+&lt;a href="https://github.com/SymbioticLab/Zeus/pull/7" target="_blank" rel="noopener">#7&lt;/a>]&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Won the 2nd Best Overall Solution in
@@ -16,7 +18,7 @@ Zeus is part of
 &lt;/li>
 &lt;li>
 &lt;p>Presented a one-hour knowledge share at SymbioticLab meeting with the title &lt;strong>“MLOps: Machine Learning from Lab to Production”&lt;/strong>.
-&lt;a href="https://docs.google.com/presentation/d/12Lp_NuH5NbPPc5QjgR2ebfN0cCOO2zvroJ8pMVUU3JU/edit?usp=sharing" target="_blank" rel="noopener">Slides&lt;/a>&lt;/p>
+&lt;a href="https://docs.google.com/presentation/d/12Lp_NuH5NbPPc5QjgR2ebfN0cCOO2zvroJ8pMVUU3JU/edit?usp=sharing" target="_blank" rel="noopener">[Slides]&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Ongoing: integrating Zeus with Kubeflow, an open-source Kubernetes-native MLOps platform for machine learning workflow orchestration, to ease the adoption of Zeus into industries.
