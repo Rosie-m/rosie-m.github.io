@@ -1,6 +1,7 @@
 BasicInfo:
-  FirstName: Luoxi Meng
-  LastName: 孟罗希
+  FirstName: Luoxi (Rosie)
+  LastName: Meng
+  Position: Ph.D. Student @ UC San Diego
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
@@ -9,131 +10,101 @@ BasicInfo:
       Info: <a class="contact__link" href="https://github.com/Rosie-m" >Rosie-m</a>
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://www.linkedin.com/in/luoxi-meng/" >www.linkedin.com/in/luoxi-meng</a>
+    - Icon: fas fa-graduation-cap
+      Info: <a class="contact__link" href="https://scholar.google.com/citations?user=BkyyyJMAAAAJ&hl=en" >Google Scholar</a>
 
+Profile: Hi! I am a PhD Student in Computer Science & Engineering (CSE) at the University of California San Diego.I build secure and practical cloud permission systems. My research aims to bring system design principles to emerging technologies. I am fortunate to be advised by <a href="https://www.earlence.com/">Prof. Earlence Fernandes</a> and work at the <a href="https://cryptosec.ucsd.edu/">Security and Cryptography research group</a>.
 
-Profile: Hi! I am a PhD Student in Computer Science & Engineering (CSE) at the University of California San Diego. I am advised by <a href="https://www.earlence.com/">Prof. Earlence Fernandes</a>. I work at the <a href="https://cryptosec.ucsd.edu/">Security and Cryptography</a> research group. Before starting my PhD, I earned my Master's degreen from University of Michigan, where I worked with <a href="https://www.mosharaf.com/">Prof. Mosharaf Chowdhury</a> and <a href="https://web.eecs.umich.edu/~manosk/">Prof. Manos Kapritsos</a>.
-
-
-
-Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
-    Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
-    Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+Publication:
+  - Title: "Stateful Least Privilege Authorization for the Cloud"
+    Authors: Leo Cao*, <span class='highlight'>Luoxi Meng</span>*, Deian Stefan, Earlence Fernandes (*Equal Contribution)
+    Conference: "USENIX Security 2024 (Acceptance rate = 17.6%)"
+    Links:
+      - Text: Paper
+        Link: "https://www.usenix.org/conference/usenixsecurity24/presentation/cao-leo"
+      - Text: Code
+        Link: "https://github.com/earlence-security/stateful-auth"
+      - Text: Talk
+        Link: "https://youtu.be/vy5fxUE0gcg"
+  - Title: "Perseus: Reducing Energy Bloat in Large Model Training"
+    Authors: Jae-Won Chung, Yile Gu, Insu Jang, <span class='highlight'>Luoxi Meng</span>, Nikhil Bansal, Mosharaf Chowdhury
+    Conference: "SOSP 2024 (Acceptance rate = 17.34%)"
+    Links:
+      - Text: Paper
+        Link: "https://dl.acm.org/doi/10.1145/3694715.3695970"
+      - Text: Code
+        Link: "https://ml.energy/zeus/optimize/pipeline_frequency_optimizer/"
+  - Title: "Chasing Low‑Carbon Electricity for Practical and Sustainable DNN Training"
+    Authors: Zhenning Yang, <span class='highlight'>Luoxi Meng</span>, Jae-Won Chung, Mosharaf Chowdhury
+    Conference: "ICLR Workshop, 2023"
+    Links:
+      - Text: Paper
+        Link: "https://www.climatechange.ai/papers/iclr2023/29"
+      - Text: Code
+        Link: "https://github.com/ml-energy/zeus/tree/chase"
+      - Text: arXiv
+        Link: "https://arxiv.org/abs/2303.02508"
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: PhD in Computer Science & Engineering
+    Place: University of California San Diego
+    Date: Sep 2023 - Present
+  - Course: MS in Computer Science & Engineering
+    Place: University of Michigan, Ann Arbor
+    Date: Aug 2021 - Apr 2023
+  - Course: BS in Computing Science (with Distinction)
+    Place: Simon Fraser University
+    Date: Sep 2019 - Aug 2021
+    Details: Dual Degree with Zhejiang University
+  - Course: BEng in Computer Science & Technology
+    Place: Zhejiang University
+    Date: Sep 2017 - Jun 2021
+    Details: Dual Degree with Simon Fraser University
+# Skills:
+#   - Family: Programming
+#     Items:
+#       - Python
+#       - HTML (including Jinja)
+#       - Javascript
+#       - CSS
+#       - SASS
+#       - SQL
+#       - C#
+#       - Bash
+#       - MATLAB
+#   - Family: Frameworks
+#     Items:
+#       - Django
+#       - Flask
+#       - Hugo
+#       - React
+#   - Family: Developer Tools
+#     Items:
+#       - Git
+#       - Docker
+#       - Jenkins
+#       - AWS
+#   - Family: Misc
+#     Items:
+#       - Adobe Tools
+#       - LaTeX
 
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+# Languages:
+#   - Name: Portuguese
+#     Level: Native
+#   - Name: English
+#     Level: C2
+#   - Name: Spanish
+#     Level: B1
+#   - Name: German
+#     Level: B1
 
+# Diplomas:
+#   - ISTQB Tester Certification (2019)
+#   - English Cambridge CAE (2009)
 
-Skills:
-  - Family: Programming
-    Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
-    Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
-
-Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
-Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+# Interests:
+#   - Top Rope
+#   - Bouldering
+#   - Surfing
+#   - Ukulele
