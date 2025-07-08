@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
+baseURL = "https://rosie-m.github.io/"
 title = "Luoxi Meng | UC San Diego"
 googleAnalytics = false
 
