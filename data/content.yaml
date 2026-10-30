@@ -12,10 +12,30 @@ BasicInfo:
       Info: <a class="contact__link" href="https://www.linkedin.com/in/luoxi-meng/" >www.linkedin.com/in/luoxi-meng</a>
     - Icon: fas fa-graduation-cap
       Info: <a class="contact__link" href="https://scholar.google.com/citations?user=BkyyyJMAAAAJ&hl=en" >Google Scholar</a>
+    - Icon: fas fa-file-alt
+      Info: <a class="contact__link" href="/cv.pdf" target="_blank" >CV</a>
 
 Profile: Hi! I am a PhD Student in Computer Science & Engineering (CSE) at the University of California San Diego.I build secure and practical cloud permission systems. My research aims to bring system design principles to emerging technologies. I am fortunate to be advised by <a href="https://www.earlence.com/">Prof. Earlence Fernandes</a> and work at the <a href="https://cryptosec.ucsd.edu/">Security and Cryptography research group</a>.
 
 Publication:
+  - Title: "ceLLMate: Sandboxing Browser AI Agents"
+    Authors: <span class='highlight'>Luoxi Meng</span>, Henry Feng, Ilia Shumailov, Earlence Fernandes
+    Conference: "Preprint, 2025"
+    Links:
+      - Text: arXiv
+        Link: "https://arxiv.org/abs/2512.12594"
+      - Text: Code
+        Link: "https://github.com/earlence-security/cellmate"
+      - Text: Demo
+        Link: "https://youtu.be/GABIN2C7weI"
+  - Title: "InferPriv: Evaluating Inferential Privacy Leakage in LLM Assistants"
+    Authors: Pengrun Huang*, Yiwei Fu*, <span class='highlight'>Luoxi Meng</span>, Kamalika Chaudhuri (*Equal Contribution)
+    Conference: "Preprint, 2026"
+    Links:
+      - Text: arXiv
+        Link: "https://arxiv.org/abs/2610.34640"
+      - Text: Code
+        Link: "https://github.com/PengrunH/InferPriv"
   - Title: "Stateful Least Privilege Authorization for the Cloud"
     Authors: Leo Cao*, <span class='highlight'>Luoxi Meng</span>*, Deian Stefan, Earlence Fernandes (*Equal Contribution)
     Conference: "USENIX Security 2024 (Acceptance rate = 17.6%)"
